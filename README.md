@@ -32,8 +32,8 @@ gvm gos (available)
    ...
    go1.9.7
    ...
-❯ gvm install go1.9.7
-❯ gvm use go1.9.7 --default
+❯ gvm install go1.12.1
+❯ gvm use go1.12.1 --default
 ```
 
 ## Study 계획
