@@ -40,6 +40,9 @@ gvm gos (available)
 
 ### [Grammar](https://github.com/kanziw/learn-go/tree/master/00_grammar)
 
+* https://go-tour-kr.appspot.com/
+* https://gobyexample.com/
+
 ### Web application 구현
 
 - [ ] Basic Endpoint
